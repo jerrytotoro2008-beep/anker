@@ -1,0 +1,11 @@
+{
+  "name": "My Free Games",
+  "downloads": [
+    {
+      "title": "SuperTuxKart",
+      "uris": ["https://github.com/supertuxkart/stk-code/releases/download/REPLACE_WITH_REAL_FILE"],
+      "uploadDate": "2026-11-04T00:00:00.000Z",
+      "fileSize": "700 MB"
+    }
+  ]
+}
